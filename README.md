@@ -17,7 +17,7 @@ The SDK requires the `requests` library, which will be installed automatically a
 Import the `NewsSentimentDataSDK` class from the package and create a new instance:
 
 ```python
-from news_sentiment_data_sdk.news_sentiment_data import NewsSentimentDataSDK
+from dalalstreet-news-sentiment.news_sentiment_data import NewsSentimentDataSDK
 
 platform_token = "your-platform-token" # Replace with your actual platform token (mandatory)
 
