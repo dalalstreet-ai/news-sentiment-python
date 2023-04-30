@@ -1,4 +1,4 @@
-# News Sentiment Data SDK
+# Dalalstreet.ai - News Sentiment Data Python SDK
 
 The News Sentiment Data SDK is a Python package that allows you to interact with the News Sentiment Data API. The SDK provides an easy-to-use interface for fetching news sentiment data related to specific stocks from the API.
 
